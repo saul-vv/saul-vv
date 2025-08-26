@@ -1,4 +1,14 @@
-## Hi there 👋
+## Data Scientist & Machine Learning Enthusiast | Problem Solver | Continuous Learner
+
+With a background in Industrial Engineering and a growing skill set in Data Science, I bring a practical, problem-solving mindset to analyzing data and building solutions. My experience as an engineer in the automotive industry has taught me to approach challenges systematically, work in a detail-oriented fashion, and think critically, all of which I apply to my work as Data Scientist.
+
+My experience so far includes:
+
+- Data Analysis: Cleaning, exploring, and visualizing data to uncover insights.
+- Machine Learning: Developing supervised and unsupervised models, convolutional neural networks and natural language processing (NLP).
+- Programming: Proficient in Python and SQL, with experience in popular libraries like Pandas, Scikit-Learn, and Matplotlib.
+
+Looking forward to connecting with other professionals in data science, analytics, and tech as I continue to grow in this exciting field!
 
 <!--
 **saul-vv/saul-vv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
